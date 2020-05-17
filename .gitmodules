@@ -1,0 +1,3 @@
+[submodule "source/vue-next"]
+	path = source/vue-next
+	url = git@github.com:haohongyang1/vue-next.git
